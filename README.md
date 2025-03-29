@@ -1,4 +1,4 @@
-# Quantum Random Number Generator
+# Quantum Lotto Max Picker
 
 This project implements a quantum random number generator using Qiskit, IBM's quantum computing framework. The program simulates quantum circuits to generate truly random numbers based on quantum mechanical principles.
 
